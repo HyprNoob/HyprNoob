@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HyprNoob
 - 👀 I’m interested in computer science, mathematics and physics.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++/Mathematics/LaTeX.
 - 📫 How to reach me: grantqwer123@gmail.com
 
 <!---
